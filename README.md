@@ -14,9 +14,13 @@ Aspiring SOC Analyst with hands-on experience in SIEM implementation, network se
 ## ⚙️ Tools & Technologies
 
 - Wazuh (SIEM)
-- Fortinet (FortiManager, FortiAnalyzer)
+- Fortinet (FortiManager, FortiAnalyzer, FortiGate)
 - Wireshark
-- Kali Linux
+- Nmap & Metasploit
+- Kali Linux & Ubuntu Linux
+- VMware (Virtualization)
+- MITRE ATT&CK, MISP, VirusTotal
+- Python
 
 ---
 

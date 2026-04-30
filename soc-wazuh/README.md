@@ -93,7 +93,7 @@ Custom dashboards were created to provide focused visibility across different ar
 
 ## 📸 Screenshots
 
-*(Sanitized screenshots of dashboards, alerts, and agent status will be added here)*
+Due to the project being conducted within a real enterprise environment, screenshots cannot be shared to protect sensitive information and system confidentiality.
 
 ---
 

@@ -4,7 +4,7 @@ Aspiring SOC Analyst with hands-on experience in SIEM implementation, network se
 
 ## 🛡 Projects
 
-- SOC Implementation using Wazuh SIEM
+- [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 - Fortinet Centralized Security Monitoring
 - Phishing Detection System (Python)
 - Penetration Testing & Vulnerability Assessment

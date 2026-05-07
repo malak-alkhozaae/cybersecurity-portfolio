@@ -1,13 +1,14 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring SOC Analyst with hands-on experience in SIEM implementation, network security, and threat detection.
+Aspiring Security Engineer focused on SIEM implementation, network security, centralized monitoring, and threat detection through hands-on projects and industry internships.
 
 ## 🛡 Projects
 
 - [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 - Fortinet Centralized Security Monitoring
+- Enterprise Network Security Topology
+- Ethical Hacking & Vulnerability Assessment
 - Phishing Detection System (Python)
-- Penetration Testing & Vulnerability Assessment
 
 ---
 
@@ -17,9 +18,9 @@ Aspiring SOC Analyst with hands-on experience in SIEM implementation, network se
 - Fortinet (FortiManager, FortiAnalyzer, FortiGate)
 - Wireshark
 - Nmap & Metasploit
+- Cisco Networking
 - Kali Linux & Ubuntu Linux
 - VMware (Virtualization)
-- MITRE ATT&CK, MISP, VirusTotal
 - Python
 
 ---

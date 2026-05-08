@@ -96,13 +96,25 @@ Multiple machine learning models were trained and evaluated using accuracy, prec
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Visualizations
 
-The repository will include:
-- Confusion matrices
-- Precision-recall curves
-- Model comparison visualizations
-- Google Colab implementation outputs
+### Model Performance Comparison
+![Model Performance Comparison](screenshots/model-performance-comparison.png)
+
+### Random Forest Confusion Matrix
+![Random Forest Confusion Matrix](screenshots/random-forest-confusion-matrix.png)
+
+### Random Forest Precision-Recall Curve
+![Random Forest Precision Recall](screenshots/random-forest-precision-recall.png)
+
+### URL Length Distribution
+![URL Length Distribution](screenshots/url-length-distribution.png)
+
+### URL Length Boxplot
+![URL Length Boxplot](screenshots/url-length-boxplot.png)
+
+### K-Nearest Neighbors (KNN) Confusion Matrix
+![KNN Confusion Matrix](screenshots/knn-confusion-matrix.png)
 
 ---
 

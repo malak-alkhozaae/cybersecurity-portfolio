@@ -10,7 +10,7 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 - [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
 - [AI-Based Phishing Detection System](phishing-detection/)
 - Enterprise Network Security Topology
-- Ethical Hacking & Vulnerability Assessment
+- Vulnerability Assessment Lab
 
 ---
 

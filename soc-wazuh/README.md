@@ -113,4 +113,4 @@ Due to the project being conducted within a practical enterprise-style environme
 
 Detailed step-by-step implementation and configurations are available in the sanitized project documentation below:
 
-📄 [View Full Documentation](docs/Wazuh_Deployment_and_Configuration.pdf)
+📄 [View Full Documentation](soc-wazuh/docs/Wazuh.pdf)

@@ -1,5 +1,9 @@
 # 🛡 AI-Based Phishing Detection System
 
+Machine Learning | Cybersecurity | Phishing Detection | Python
+
+---
+
 ## 📌 Overview
 
 This project demonstrates the implementation of a machine learning-based phishing URL detection system developed using Python and Google Colab. The system was designed to classify phishing and legitimate URLs using multiple machine learning algorithms to support cybersecurity threat detection and analysis.
@@ -33,6 +37,13 @@ Originally developed as part of a university group project focused on AI applica
 - XGBoost
 - Matplotlib
 - Machine Learning Algorithms
+- SMOTEENN
+
+---
+
+## 📂 Dataset
+
+The project utilized phishing and legitimate URL datasets commonly used in cybersecurity and machine learning research. The dataset was preprocessed, cleaned, balanced, and prepared for training and evaluation purposes.
 
 ---
 
@@ -59,7 +70,7 @@ Originally developed as part of a university group project focused on AI applica
 
 ## 📊 Results
 
-The models were evaluated using multiple performance metrics including accuracy, precision, recall, and F1-score. Random Forest achieved the best overall performance with approximately 88% accuracy during testing and evaluation.
+Multiple machine learning models were trained and evaluated using accuracy, precision, recall, and F1-score metrics. Random Forest achieved the best overall performance, reaching approximately 88% accuracy while providing balanced phishing detection capabilities and reliable classification performance.
 
 ---
 
@@ -75,12 +86,32 @@ The models were evaluated using multiple performance metrics including accuracy,
 
 ---
 
+## 🚀 Future Improvements
+
+- Deploy the system as a web-based phishing detection tool
+- Integrate real-time URL scanning capabilities
+- Develop a browser extension for phishing detection
+- Improve detection accuracy using advanced deep learning models
+- Integrate automated alerting and response mechanisms
+
+---
+
 ## 📸 Screenshots
 
-Project screenshots and model evaluation visualizations will be added soon.
+The repository will include:
+- Confusion matrices
+- Precision-recall curves
+- Model comparison visualizations
+- Google Colab implementation outputs
+
+---
+
+## 📓 Notebook
+
+The Google Colab implementation notebook will be available in the `/notebook` folder.
 
 ---
 
 ## 📄 Documentation
 
-Detailed technical documentation and implementation details will be added in the `/docs` folder.
+Detailed technical documentation and implementation details will be available in the `/docs` folder.

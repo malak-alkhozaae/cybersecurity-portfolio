@@ -5,7 +5,7 @@ Aspiring Security Engineer focused on SIEM implementation, network security, cen
 ## 🛡 Projects
 
 - [SOC Implementation using Wazuh SIEM](soc-wazuh/)
-- Fortinet Centralized Security Monitoring
+- [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
 - Enterprise Network Security Topology
 - Ethical Hacking & Vulnerability Assessment
 - Phishing Detection System (Python)

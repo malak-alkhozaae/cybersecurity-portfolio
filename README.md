@@ -8,7 +8,7 @@ Aspiring Security Engineer focused on SIEM implementation, network security, cen
 - [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
 - Enterprise Network Security Topology
 - Ethical Hacking & Vulnerability Assessment
-- Phishing Detection System (Python)
+- - [AI-Based Phishing Detection System](phishing-detection/)
 
 ---
 

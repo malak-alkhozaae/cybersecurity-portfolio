@@ -122,8 +122,3 @@ Multiple machine learning models were trained and evaluated using accuracy, prec
 
 [Open the Google Colab Notebook](notebook/phishing_detection.ipynb)
 
----
-
-## 📄 Documentation
-
-Detailed technical documentation and implementation details will be available in the `/docs` folder.

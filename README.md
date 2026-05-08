@@ -43,4 +43,4 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/malak-alkhuzaie
-- Email: your-email@example.com
+- Email: malak.alkhozaae@gmail.com

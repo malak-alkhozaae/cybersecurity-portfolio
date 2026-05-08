@@ -113,4 +113,4 @@ Due to the project being conducted within a practical enterprise-style environme
 
 Detailed step-by-step implementation and configurations are available in the sanitized project documentation below:
 
-📄 [View Full Documentation](soc-wazuh/docs/Wazuh.pdf)
+📄 [View Full Documentation](https://github.com/malak-alkhozaae/cybersecurity-portfolio/blob/main/soc-wazuh/docs/Wazuh.pdf)

@@ -120,7 +120,7 @@ Multiple machine learning models were trained and evaluated using accuracy, prec
 
 ## 📓 Notebook
 
-The Google Colab implementation notebook will be available in the `/notebook` folder.
+[Open the Google Colab Notebook](notebook/phishing_detection.ipynb)
 
 ---
 

@@ -9,8 +9,8 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 - [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 - [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
 - [AI-Based Phishing Detection System](phishing-detection/)
-- Enterprise Network Security Topology
-- Vulnerability Assessment Lab
+- [Enterprise Network Security Topology](enterprise-network-security-topology/)
+- [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
 
 ---
 

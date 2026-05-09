@@ -71,21 +71,6 @@ The project includes multiple simulated attack scenarios to validate threat dete
 
 ---
 
-## 📂 Repository Structure
-
-```text
-threat-intelligence-and-hunting/
-│
-├── docs/
-├── images/
-├── playbooks/
-├── rules/
-├── samples/
-└── README.md
-```
-
----
-
 ## 📘 Incident Response Playbooks
 
 This repository includes incident response playbooks for handling different cybersecurity incidents, including:

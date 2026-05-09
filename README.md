@@ -1,6 +1,8 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring Security Engineer with hands-on experience in SIEM implementation, centralized security monitoring, threat detection, network security, and cybersecurity automation through academic projects, cybersecurity labs, and industry internships.
+Aspiring Security Engineer with hands-on experience in SIEM implementation, centralized security monitoring, threat detection, threat hunting, network security, and cybersecurity automation through academic projects, cybersecurity labs, and industry internships.
+
+Focused on Security Operations (SOC), Detection Engineering, SIEM technologies, and enterprise security monitoring using platforms such as Wazuh and Fortinet solutions.
 
 ---
 
@@ -17,12 +19,17 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 
 ## ⚙️ Tools & Technologies
 
-### Security & Monitoring
+### Security Monitoring & SIEM
 - Wazuh SIEM
 - Fortinet (FortiManager, FortiAnalyzer, FortiGate)
+- Suricata IDS/IPS
+- MITRE ATT&CK Framework
+
+### Security & Network Analysis
 - Wireshark
 - Nmap
 - Metasploit
+- Vulnerability Assessment & Threat Analysis
 
 ### Networking & Infrastructure
 - Cisco Networking
@@ -43,5 +50,5 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/malak-alkhuzaie
+- LinkedIn: <PRIVATE_URL>
 - Email: malak.alkhozaae@gmail.com

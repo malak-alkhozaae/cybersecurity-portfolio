@@ -13,7 +13,7 @@ Focused on Security Operations (SOC), SIEM technologies, infrastructure security
 - [AI-Based Phishing Detection System](phishing-detection/)
 - [Defense-in-Depth Network Security Architecture](defense-in-depth-network-security/)
 - [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
-- [Threat Intelligence & Threat Hunting Platform](threat-intelligence-threat-hunting-platform/)
+- [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)
 
 ---
 

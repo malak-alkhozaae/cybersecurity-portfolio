@@ -50,5 +50,5 @@ Focused on Security Operations (SOC), Detection Engineering, SIEM technologies, 
 
 ## 📫 Contact
 
-- LinkedIn: <PRIVATE_URL>
+- LinkedIn: <www.linkedin.com/in/malak-alkhuzaie>
 - Email: malak.alkhozaae@gmail.com

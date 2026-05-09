@@ -1,83 +1,114 @@
 # 🛡 Threat Intelligence & Threat Hunting Platform
 
-Threat Intelligence | Threat Hunting | Wazuh SIEM | MISP | Suricata | MITRE ATT&CK | Incident Response
+Threat Intelligence and Threat Hunting platform developed using Wazuh SIEM, Suricata IDS, MISP, VirusTotal, MITRE ATT&CK, and SOAR automation technologies.
+
+This project demonstrates real-world Security Operations Center (SOC) operations including threat detection, intrusion monitoring, threat intelligence integration, cyber attack simulation, incident response, active response automation, and security event correlation across Windows and Linux environments.
 
 ---
 
-## 📌 Overview
+## 🔍 Key Features
 
-This project demonstrates the design and implementation of a threat intelligence and threat hunting platform using Wazuh SIEM as the main monitoring and analysis solution. The platform was developed to support proactive threat detection, security event correlation, IOC analysis, and incident investigation within a controlled cybersecurity lab environment.
-
-The project integrates multiple security components, including threat intelligence sources, network intrusion detection, vulnerability detection, file integrity monitoring, and attack simulation. It focuses on improving visibility across monitored systems and supporting SOC-style investigation workflows.
+- Centralized SIEM monitoring using Wazuh
+- Threat hunting and log analysis
+- Suricata IDS integration
+- MITRE ATT&CK event mapping
+- MISP threat intelligence integration
+- VirusTotal malware analysis integration
+- File Integrity Monitoring (FIM)
+- Vulnerability Detection
+- Active Response automation
+- SOAR workflow automation using Shuffle
+- Simulated cyber attack scenarios
+- Incident response playbooks
 
 ---
 
-## 🎯 Objective
+## 🏗 SOC Architecture
 
-To build a centralized security monitoring and threat hunting environment capable of detecting, analyzing, and investigating suspicious activities using SIEM logs, threat intelligence indicators, and security event correlation.
+> SOC architecture diagram and implementation screenshots will be added soon.
 
 ---
 
-## 🛠 Tools & Technologies
+## ⚙ Technologies Used
 
+### SIEM & Monitoring
 - Wazuh SIEM
-- MISP Threat Intelligence Platform
+- Suricata IDS
+
+### Threat Intelligence
+- MISP
 - VirusTotal
-- Suricata IDS/IPS
-- MITRE ATT&CK Framework
-- Linux
+- MITRE ATT&CK
+
+### SOAR & Automation
+- Shuffle SOAR
+- Wazuh Active Response
+
+### Operating Systems
 - Windows
+- Ubuntu Linux
+- Bodhi Linux
+- Kali Linux
+
+### Security Tools
+- Sysmon
 - Nmap
+- Hydra
 - hping3
-- Virtualized lab environment
 
 ---
 
-## ⚙️ Implementation
+## ⚔ Simulated Cyber Attacks
 
-### SIEM Deployment & Monitoring
-- Deployed Wazuh SIEM for centralized log collection and security monitoring
-- Configured monitored endpoints to forward security events to the SIEM
-- Analyzed alerts, logs, and system activity through the Wazuh dashboard
+The project includes multiple simulated attack scenarios to validate threat detection and response capabilities:
 
-### Threat Intelligence Integration
-- Integrated threat intelligence concepts using MISP and VirusTotal
-- Investigated Indicators of Compromise (IOCs)
-- Used threat intelligence data to support alert enrichment and analysis
-
-### Network Threat Detection
-- Integrated Suricata IDS/IPS for network-based threat detection
-- Monitored suspicious traffic patterns and network-based alerts
-- Analyzed attack behavior generated through controlled simulations
-
-### Threat Hunting
-- Performed proactive threat hunting using logs and security alerts
-- Investigated suspicious activities and abnormal behavior
-- Mapped relevant attack techniques to MITRE ATT&CK
-
-### Vulnerability & File Monitoring
-- Used vulnerability detection to identify weaknesses in monitored systems
-- Configured File Integrity Monitoring to detect unauthorized file changes
-- Reviewed generated alerts to support investigation workflows
-
-### Incident Response & Playbooks
-- Documented SOC-style investigation steps
-- Created basic response workflows for detected threats
-- Supported analysis using alert correlation and threat context
+- ICMP Flood Attack
+- TCP SYN Flood Attack
+- Nmap SYN Scan
+- Hydra SSH Brute-Force Attack
+- Malware Detection & Response
+- MITRE ATT&CK Threat Mapping
 
 ---
 
-## 📸 Screenshots
+## 📂 Repository Structure
 
-Screenshots and diagrams will be added here after the project documentation is finalized.
+```text
+threat-intelligence-and-hunting/
+│
+├── docs/
+├── images/
+├── playbooks/
+├── rules/
+├── samples/
+└── README.md
+```
+
+---
+
+## 📘 Incident Response Playbooks
+
+This repository includes incident response playbooks for handling different cybersecurity incidents, including:
+
+- Phishing Attack Response
+- Malware Infection Response
+- Automated Threat Response
 
 ---
 
 ## 🚀 Future Improvements
 
-- Add more threat intelligence feeds
-- Create custom detection rules
-- Expand MITRE ATT&CK mapping
-- Build threat hunting dashboards
-- Improve automated response workflows
-- Add more attack simulation scenarios
+- Expand SOAR automation workflows
+- Integrate additional threat intelligence feeds
+- Enhance dashboard visualizations
+- Add Sigma rule support
+- Implement automated IOC enrichment
+- Deploy containerized SOC lab environment
+
+---
+
+## 📌 Project Status
+
+Project documentation, attack simulations, screenshots, custom rules, and playbooks are currently being organized and improved for portfolio presentation.
+
+More updates will be added soon.

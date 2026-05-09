@@ -11,7 +11,7 @@ Focused on Security Operations (SOC), SIEM technologies, infrastructure security
 - [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 - [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
 - [AI-Based Phishing Detection System](phishing-detection/)
-- [Enterprise Network Security Topology](enterprise-network-security-topology/)
+- [Defense-in-Depth Network Security Architecture](defense-in-depth-network-security/)
 - [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
 - [Threat Intelligence & Threat Hunting Platform](threat-intelligence-threat-hunting-platform/)
 

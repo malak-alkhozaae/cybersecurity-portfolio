@@ -11,6 +11,7 @@ Aspiring Security Engineer with hands-on experience in SIEM implementation, cent
 - [AI-Based Phishing Detection System](phishing-detection/)
 - [Enterprise Network Security Topology](enterprise-network-security-topology/)
 - [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
+- [Threat Intelligence & Threat Hunting Platform](threat-intelligence-threat-hunting-platform/)
 
 ---
 

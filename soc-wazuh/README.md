@@ -1,116 +1,156 @@
 # 🛡 SOC Implementation using Wazuh SIEM
 
-## 📌 Overview
+Enterprise-focused Security Information and Event Management (SIEM) implementation using Wazuh for centralized security monitoring, log analysis, endpoint visibility, threat detection, File Integrity Monitoring (FIM), and Office 365 security monitoring.
 
-This project demonstrates the implementation of a Security Information and Event Management (SIEM) solution using Wazuh in an enterprise-style environment. The system was designed to centralize log collection, monitor endpoint activity, and support real-time threat detection and analysis.
+This project is based on hands-on internship experience involving Wazuh deployment, agent management, centralized monitoring, dashboard engineering, and security event analysis within a controlled enterprise environment.
 
-The implementation was carried out in both an academic environment and a practical internship environment, providing hands-on exposure to enterprise-level monitoring, troubleshooting, and security operations.
-
----
-
-## 🎯 Objective
-
-To design and deploy a centralized monitoring solution capable of collecting, analyzing, and correlating security events across multiple systems, supporting SOC operations and improving overall security visibility.
+Sensitive organizational information, infrastructure details, credentials, and internal identifiers have been redacted or excluded for security and privacy purposes.
 
 ---
 
-## 🛠 Environment
+## 🔍 Key Features
 
-- Wazuh Manager deployed on Ubuntu Linux (Virtualized using VMware)
-- Windows endpoints and servers
-- Two monitored Linux servers (application and web services)
-- Application and web activity monitoring
-- Office 365 cloud activity monitoring
-- Virtualized environment configured to support enterprise-level monitoring (approximately 20–40 endpoints)
-
----
-
-## ⚙️ Implementation
-
-- Installed and configured Wazuh Manager on a Linux server
-- Deployed Wazuh agents across endpoints and servers
-- Monitored multiple systems including endpoints, servers, applications, and web services
-- Used Group Policy Objects (GPO) for centralized agent deployment
-- Configured File Integrity Monitoring (FIM) to detect unauthorized file changes
-- Integrated Microsoft Office 365 logs for centralized cloud monitoring
-- Built dashboards to monitor system activity, alerts, and endpoint status
-
----
-
-## 📊 Security Monitoring Dashboards
-
-Custom dashboards were created to provide focused visibility across different areas of the environment. Each dashboard was designed to support monitoring, detection, and analysis of security events.
-
-### 🔹 Endpoint Security Monitoring
-- Monitors alerts, agent activity, and authentication events
-- Identifies top affected endpoints and attacker IPs
-- Tracks vulnerabilities and system status changes over time
-
-### 🔹 File Integrity Monitoring (FIM)
-- Tracks file modifications (added, modified, deleted)
-- Identifies users performing file changes
-- Highlights frequently modified file paths
-- Detects unauthorized or suspicious file activity
-
-### 🔹 Office 365 Security Monitoring
-- Monitors user activity and security alerts in the cloud environment
-- Identifies suspicious login behavior and failed operations
-- Tracks user-based alert trends and geographical activity
-
-### 🔹 Environment Overview Dashboard
-- Provides high-level visibility of alerts and system health
-- Displays alert severity distribution and agent status
-- Highlights top alert-generating systems
-
-### 🔹 Threat Detection & Response
-- Focuses on high-severity alerts and active threats
-- Maps detected activity to MITRE ATT&CK techniques
-- Identifies common attack patterns and network-based threats
-
----
-
-## ⚠️ Challenges & Solutions
-
-### Wazuh Manager Service Issues
-- Investigated inactive manager service issues through system log analysis
-- Resolved configuration-related problems affecting service availability
-
-### Agent Connectivity Issues
-- Identified agent communication and enrollment problems
-- Manually reconfigured affected agents and validated connectivity
-
----
-
-## 🧠 Skills Demonstrated
-
-- SIEM implementation and configuration
-- Log analysis and security monitoring
-- Threat detection and investigation
-- Endpoint and server monitoring
+- Centralized SIEM deployment using Wazuh
+- Windows and Linux agent deployment
+- Group Policy Object (GPO) agent deployment
+- Office 365 security monitoring integration
 - File Integrity Monitoring (FIM)
-- Office 365 security monitoring
-- Linux administration
-- Troubleshooting and problem-solving in practical environments
+- Log collection and analysis
+- Threat detection and alert monitoring
+- Dashboard engineering and visualization
+- MITRE ATT&CK monitoring concepts
+- Endpoint security monitoring
+- Security event analysis and monitoring
 
 ---
 
-## 📸 Screenshots
+## 🧪 Environment
 
-Due to the project being conducted within a practical enterprise-style environment, screenshots cannot be shared to protect sensitive information and system confidentiality.
+### Operating Systems
+- Ubuntu Server 24.04 LTS
+- Windows Endpoints
+- Windows Server
+- Linux Servers
+
+### Virtualization
+- VMware ESXi
+
+### Security Tools & Platforms
+- Wazuh SIEM
+- Office 365
+- Microsoft Entra ID (Azure AD)
+- VMware ESXi
+- Windows Group Policy (GPO)
+
+---
+
+## 🏗 Architecture Overview
+
+The environment was designed around a centralized Wazuh Manager responsible for collecting, analyzing, and monitoring logs from multiple Windows and Linux endpoints.
+
+Integrated monitoring components included:
+- Windows endpoints
+- Windows servers
+- Linux application servers
+- Linux web servers
+- File share servers
+- Office 365 audit logs
+- File Integrity Monitoring (FIM)
+
+---
+
+## ⚙️ Wazuh Deployment & Configuration
+
+### Wazuh Manager Deployment
+- Ubuntu-based Wazuh Manager deployment
+- VMware ESXi virtualized environment
+- Wazuh installation and upgrade management
+- Agent enrollment configuration
+- Authentication configuration
+
+### Agent Deployment
+- Windows endpoint deployment
+- Windows Server deployment
+- Linux server integration
+- Group Policy Object (GPO) deployment
+- Centralized agent management
+
+### Security Monitoring Configuration
+- File Integrity Monitoring (FIM)
+- Application log monitoring
+- Web server log monitoring
+- Office 365 audit monitoring
+- Threat detection configuration
+
+---
+
+## ☁️ Office 365 Monitoring
+
+Integrated Office 365 monitoring using Azure AD application registration and API permissions to collect:
+- Azure Active Directory events
+- Exchange activity logs
+- SharePoint activity logs
+- DLP-related events
+- General Office 365 audit activity
+
+---
+
+## 📊 Dashboard Engineering
+
+Custom dashboards were designed to improve visibility across the monitored environment, including:
+
+- Endpoint Security Monitoring
+- Threat Detection & Response
+- Office 365 Security Monitoring
+- File Integrity Monitoring
+- Security Alert Overview
+- MITRE ATT&CK monitoring concepts
+
+---
+
+## 📘 Documentation
+
+This repository includes:
+- Deployment summaries
+- Redacted configuration examples
+- Monitoring architecture documentation
+- Dashboard design summaries
+- File Integrity Monitoring configuration
+- Office 365 monitoring integration summaries
+- Agent deployment documentation
+
+---
+
+## 📂 Repository Structure
+
+```text
+soc-wazuh/
+│
+├── docs/
+├── images/
+├── configurations/
+├── reports/
+├── samples/
+└── README.md
+```
 
 ---
 
 ## 🚀 Future Improvements
 
-- Implement automated alert response mechanisms
-- Enhance dashboard visualization for improved threat analysis
-- Expand monitoring coverage across additional systems and endpoints
-- Integrate additional threat intelligence and alert correlation capabilities
+- Implement advanced active response automation
+- Expand endpoint monitoring coverage
+- Enhance dashboard visualization
+- Integrate additional threat intelligence sources
+- Improve automated alert correlation
+- Expand MITRE ATT&CK mapping
 
 ---
 
-## 📄 Full Documentation
+## ⚠ Disclaimer
 
-Detailed step-by-step implementation and configurations are available in the sanitized project documentation below:
+This project contains redacted and sanitized documentation derived from a real-world internship environment.
 
-📄 [View Full Documentation](https://github.com/malak-alkhozaae/cybersecurity-portfolio/blob/main/soc-wazuh/docs/Wazuh.pdf)
+All sensitive organizational information, infrastructure details, IP addresses, credentials, tenant identifiers, and internal operational data have been removed, modified, or generalized for security and privacy purposes.
+
+This repository is intended for educational and professional portfolio presentation only.

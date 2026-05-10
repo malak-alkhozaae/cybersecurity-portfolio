@@ -149,6 +149,7 @@ This repository includes:
 - File Integrity Monitoring configuration
 - Office 365 monitoring integration summaries
 - Agent deployment documentation
+- Lessons learned and operational insights
 
 ---
 

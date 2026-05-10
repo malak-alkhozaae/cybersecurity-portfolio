@@ -1,1 +1,38 @@
+<!-- Custom Wazuh Local Rules -->
 
+<group name="local,syslog,suricata,">
+
+  <!-- Suricata ICMP Flood Alert -->
+  <rule id="100101" level="10">
+    <if_sid>86601</if_sid>
+    <field name="event_type">alert</field>
+    <field name="alert.signature">ICMP Flood Detected</field>
+    <description>Suricata detected possible ICMP flood activity</description>
+    <mitre>
+      <id>T1498</id>
+    </mitre>
+  </rule>
+
+  <!-- Suricata TCP SYN Flood Alert -->
+  <rule id="100102" level="10">
+    <if_sid>86601</if_sid>
+    <field name="event_type">alert</field>
+    <field name="alert.signature">TCP SYN Flood Detected</field>
+    <description>Suricata detected possible TCP SYN flood activity</description>
+    <mitre>
+      <id>T1498</id>
+    </mitre>
+  </rule>
+
+  <!-- Suricata Nmap SYN Scan Alert -->
+  <rule id="100103" level="8">
+    <if_sid>86601</if_sid>
+    <field name="event_type">alert</field>
+    <field name="alert.signature">Nmap SYN Scan Detected</field>
+    <description>Suricata detected possible Nmap SYN scan activity</description>
+    <mitre>
+      <id>T1046</id>
+    </mitre>
+  </rule>
+
+</group>

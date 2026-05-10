@@ -1,19 +1,30 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring Security Engineer with hands-on experience in SIEM implementation, threat hunting, centralized security monitoring, vulnerability assessment, network security, and cybersecurity automation through academic projects, cybersecurity labs, and industry internships.
+Aspiring Security Engineer specializing in SIEM implementation, security monitoring, detection engineering, infrastructure security, and threat detection through hands-on projects, cybersecurity labs, and industry internships.
 
-Focused on Security Operations (SOC), detection engineering, infrastructure security, offensive security concepts, and enterprise security monitoring using platforms such as Wazuh and Fortinet solutions.
+Focused on Security Operations (SOC), centralized security monitoring, enterprise infrastructure security, threat hunting, and blue-team operations using technologies such as Wazuh, Fortinet solutions, and enterprise security monitoring platforms.
 
 ---
 
 ## 🛡 Projects
 
-- [SOC Implementation using Wazuh SIEM](soc-wazuh/)
-- [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
-- [AI-Based Phishing Detection System](phishing-detection/)
-- [Defense-in-Depth Network Security Architecture](defense-in-depth-network-security/)
-- [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
-- [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)
+### [SOC Implementation using Wazuh SIEM](soc-wazuh/)
+Enterprise-focused SIEM implementation demonstrating centralized security monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented security operations using Wazuh.
+
+### [Fortinet Centralized Security Monitoring](fortinet-centralized-security-monitoring/)
+Enterprise network security monitoring and centralized management implementation using FortiManager and FortiAnalyzer with ADOM management, policy deployment, traffic analysis, and security monitoring concepts.
+
+### [Defense-in-Depth Network Security Architecture](defense-in-depth-network-security/)
+Enterprise-style layered security architecture demonstrating VLAN segmentation, ACLs, VPN technologies, IDS/IPS implementation, AAA, DMZ design, and infrastructure security concepts.
+
+### [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)
+Threat hunting and detection-focused project demonstrating threat intelligence workflows, MITRE ATT&CK concepts, security investigations, monitoring, and threat analysis methodologies.
+
+### [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
+Hands-on cybersecurity lab focused on vulnerability assessment, penetration testing methodologies, reconnaissance, exploitation techniques, privilege escalation, and security hardening concepts within controlled virtual environments.
+
+### [AI-Based Phishing Detection System](phishing-detection/)
+Machine learning-based phishing detection project focused on malicious URL analysis, phishing detection techniques, cybersecurity automation, and applied AI concepts for security operations.
 
 ---
 
@@ -25,10 +36,11 @@ Focused on Security Operations (SOC), detection engineering, infrastructure secu
 - Suricata IDS/IPS
 - MITRE ATT&CK Framework
 
-### Security & Network Analysis
+### Security & Threat Analysis
 - Wireshark
 - Nmap
 - Metasploit
+- Threat Hunting & Security Monitoring
 - Vulnerability Assessment & Threat Analysis
 
 ### Networking & Infrastructure
@@ -36,6 +48,7 @@ Focused on Security Operations (SOC), detection engineering, infrastructure secu
 - VLANs, ACLs, NAT/PAT
 - VPN Technologies
 - VMware Virtualization
+- Enterprise Network Segmentation
 
 ### Operating Systems & Platforms
 - Kali Linux
@@ -45,6 +58,19 @@ Focused on Security Operations (SOC), detection engineering, infrastructure secu
 ### Programming & Automation
 - Python
 - Machine Learning for Cybersecurity
+
+---
+
+## 🎯 Core Focus Areas
+
+- SIEM & Security Monitoring
+- Security Operations (SOC)
+- Detection Engineering
+- Threat Hunting
+- Infrastructure Security
+- Enterprise Network Security
+- Vulnerability Assessment
+- Centralized Security Management
 
 ---
 

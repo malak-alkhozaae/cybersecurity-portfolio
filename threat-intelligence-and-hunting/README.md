@@ -25,7 +25,83 @@ This project demonstrates real-world Security Operations Center (SOC) operations
 
 ## 🏗 SOC Architecture
 
-> SOC architecture diagram and implementation screenshots will be added soon.
+The project follows a centralized Security Operations Center (SOC) architecture using Wazuh SIEM, Suricata IDS, threat intelligence integrations, and SOAR automation workflows for threat detection and response.
+
+![SOC Architecture](images/architecture/soc-architecture-diagram.png)
+
+---
+
+## 📊 Security Monitoring Dashboards
+
+### MITRE ATT&CK Dashboard
+![MITRE Dashboard](images/dashboards/mitre-attack-dashboard.png)
+
+### Vulnerability Detection Dashboard
+![Vulnerability Dashboard](images/dashboards/vulnerability-dashboard.png)
+
+### File Integrity Monitoring Dashboard
+![FIM Dashboard](images/dashboards/fim-dashboard.png)
+
+### Threat Hunting Dashboard
+![Threat Hunting Dashboard](images/dashboards/threat-hunting-dashboard.png)
+
+---
+
+## ⚔ Attack Simulations & Detection
+
+### Hydra SSH Brute-Force Attack
+![Hydra Attack](images/attacks/hydra-bruteforce.png)
+
+### Nmap SYN Scan
+![Nmap Scan](images/attacks/nmap-scan.png)
+
+### TCP SYN Flood Attack
+![SYN Flood](images/attacks/syn-flood-attack.png)
+
+### ICMP Flood Attack
+![ICMP Flood](images/attacks/icmp-flood-attack.png)
+
+---
+
+## 🚨 Threat Detection & Alerts
+
+### TCP SYN Flood Detection
+![SYN Flood Alert](images/alerts/syn-flood-alert.png)
+
+### Nmap Scan Detection
+![Nmap Alert](images/alerts/nmap-alert.png)
+
+### ICMP Flood Detection
+![ICMP Alert](images/alerts/icmp-flood-alert.png)
+
+### Firewall-Drop Active Response
+![Firewall Drop](images/alerts/firewall-drop-alert.png)
+
+---
+
+## 🔗 Threat Intelligence & Integrations
+
+### Suricata Custom Rules
+![Suricata Rules](images/integrations/suricata-custom-rules.png)
+
+### MISP Integration
+![MISP Integration](images/integrations/misp-integration.png)
+
+### VirusTotal Integration
+![VirusTotal Integration](images/integrations/virustotal-wazuh-config.png)
+
+---
+
+## 🤖 SOAR Automation with Shuffle
+
+### Shuffle Workflow
+![Shuffle Workflow](images/automation/shuffle-workflow.png)
+
+### Shuffle Webhook Integration
+![Shuffle Webhook](images/automation/shuffle-webhook.png)
+
+### Automated SSH Alert Handling
+![Shuffle SSH Alert](images/automation/shuffle-ssh-alert.png)
 
 ---
 
@@ -58,26 +134,28 @@ This project demonstrates real-world Security Operations Center (SOC) operations
 
 ---
 
-## ⚔ Simulated Cyber Attacks
-
-The project includes multiple simulated attack scenarios to validate threat detection and response capabilities:
-
-- ICMP Flood Attack
-- TCP SYN Flood Attack
-- Nmap SYN Scan
-- Hydra SSH Brute-Force Attack
-- Malware Detection & Response
-- MITRE ATT&CK Threat Mapping
-
----
-
 ## 📘 Incident Response Playbooks
 
 This repository includes incident response playbooks for handling different cybersecurity incidents, including:
 
 - Phishing Attack Response
 - Malware Infection Response
-- Automated Threat Response
+- Brute-Force Attack Response
+
+---
+
+## 📂 Repository Structure
+
+```text
+threat-intelligence-and-hunting/
+│
+├── docs/
+├── images/
+├── playbooks/
+├── rules/
+├── samples/
+└── README.md
+```
 
 ---
 

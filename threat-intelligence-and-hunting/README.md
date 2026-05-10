@@ -4,6 +4,8 @@ Threat Intelligence and Threat Hunting platform developed using Wazuh SIEM, Suri
 
 This project demonstrates real-world Security Operations Center (SOC) operations including threat detection, intrusion monitoring, threat intelligence integration, cyber attack simulation, incident response, active response automation, and security event correlation across Windows and Linux environments.
 
+Developed as part of an academic cybersecurity project focused on SOC operations, threat intelligence integration, threat hunting, and incident response automation.
+
 ---
 
 ## 🔍 Key Features

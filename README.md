@@ -1,8 +1,8 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring Security Engineer with hands-on experience in SIEM implementation, centralized security monitoring, network security, vulnerability assessment, and cybersecurity automation through academic projects, cybersecurity labs, and industry internships.
+Aspiring Security Engineer with hands-on experience in SIEM implementation, threat hunting, centralized security monitoring, vulnerability assessment, network security, and cybersecurity automation through academic projects, cybersecurity labs, and industry internships.
 
-Focused on Security Operations (SOC), SIEM technologies, infrastructure security, and enterprise security monitoring using platforms such as Wazuh and Fortinet solutions.
+Focused on Security Operations (SOC), detection engineering, infrastructure security, offensive security concepts, and enterprise security monitoring using platforms such as Wazuh and Fortinet solutions.
 
 ---
 

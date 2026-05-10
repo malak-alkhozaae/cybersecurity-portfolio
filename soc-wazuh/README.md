@@ -68,12 +68,21 @@ Integrated monitoring components included:
 - Agent enrollment configuration
 - Authentication configuration
 
+### Wazuh Server Environment
+![Wazuh Server Environment](images/deployment/wazuh-server-environment.png)
+
+### Password-Based Agent Enrollment
+![Password-Based Agent Enrollment](images/deployment/password-based-agent-enrollment.png)
+
 ### Agent Deployment
 - Windows endpoint deployment
 - Windows Server deployment
 - Linux server integration
 - Group Policy Object (GPO) deployment
 - Centralized agent management
+
+### Linux Agent Deployment
+![Linux Agent Deployment](images/agents/linux-agent-deployment.png)
 
 ### Security Monitoring Configuration
 - File Integrity Monitoring (FIM)
@@ -92,6 +101,28 @@ Integrated Office 365 monitoring using Azure AD application registration and API
 - SharePoint activity logs
 - DLP-related events
 - General Office 365 audit activity
+
+### Azure AD Application Registration
+![Azure AD App Registration](images/office365/azure-ad-app-registration.png)
+
+### Office 365 Client Secret Configuration
+![Office 365 Client Secret](images/office365/office365-client-secret.png)
+
+### Office 365 API Permissions
+![Office 365 API Permissions](images/office365/office365-api-permissions.png)
+
+### Office 365 Monitoring Configuration
+![Office 365 Monitoring Configuration](images/office365/office365-monitoring-configuration.png)
+
+---
+
+## 🛡 File Integrity Monitoring
+
+### Application Directory Monitoring
+![Application Directory Monitoring](images/fim/application-directory-monitoring.png)
+
+### Web Directory Monitoring
+![Web Directory Monitoring](images/fim/web-directory-monitoring.png)
 
 ---
 

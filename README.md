@@ -11,7 +11,7 @@ Focused on Security Operations (SOC), centralized security monitoring, enterpris
 ### [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 Enterprise-focused SIEM implementation demonstrating centralized security monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented security operations using Wazuh.
 
-### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-monitoring/)
+### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-management/)
 Enterprise centralized security monitoring and management implementation using FortiManager and FortiAnalyzer with ADOM management, centralized policy deployment, VPN/SD-WAN concepts, traffic analysis, and security monitoring.
 
 ### [Defense-in-Depth Network Security Architecture](defense-in-depth-network-security/)

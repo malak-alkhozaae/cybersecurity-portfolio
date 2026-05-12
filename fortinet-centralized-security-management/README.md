@@ -38,4 +38,4 @@ The project focuses on centralized firewall management, ADOM administration, pol
 
 Additional implementation details, configurations, topology diagrams, screenshots, testing procedures, and technical documentation will be added as the project progresses.
 
-> Note: All configurations, screenshots, and technical demonstrations are performed within a controlled lab or authorized enterprise environment. Sensitive organizational information, IP addressing, and client-identifying details are intentionally excluded for privacy and security purposes.
+> Note: This project is based on real enterprise implementation experience conducted within an organizational environment. Sensitive information, IP addressing, and client-identifying details are intentionally excluded for privacy and security purposes.

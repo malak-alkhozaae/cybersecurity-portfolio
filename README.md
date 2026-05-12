@@ -14,7 +14,7 @@ Enterprise-focused SIEM implementation demonstrating centralized security monito
 ### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-management/)
 Enterprise centralized security monitoring and management implementation using FortiManager and FortiAnalyzer with ADOM management, centralized policy deployment, VPN/SD-WAN concepts, traffic analysis, and security monitoring.
 
-### [Enterprise Security Infrastructure Lab](defense-in-depth-network-security/)
+### [Enterprise Security Infrastructure Lab](enterprise-security-infrastructure/)
 Enterprise-style security infrastructure implementation demonstrating VLAN segmentation, inter-VLAN routing, WAN connectivity, firewall deployment, ACL enforcement, Layer 2 security hardening, DMZ architecture, enterprise routing, and centralized security-focused network design using Cisco technologies.
 
 ### [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)

@@ -214,7 +214,7 @@ This project emphasized practical troubleshooting and infrastructure validation 
 
 Potential future enhancements include:
 
-- Site-to-Site VPN deployment
+- Site-to-Site IPsec VPN deployment
 - AAA server integration
 - Syslog and centralized logging
 - DHCP services

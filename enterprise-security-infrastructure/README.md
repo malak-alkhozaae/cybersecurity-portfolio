@@ -1,6 +1,6 @@
-# Enterprise Security Infrastructure
+# 🏢 Enterprise Security Infrastructure
 
-## Overview
+## 📖 Overview
 
 This project demonstrates the design and implementation of an enterprise-style security infrastructure using Cisco networking and security technologies within a simulated multi-branch environment. The infrastructure was built to simulate a real-world enterprise network with secure segmentation, centralized routing, branch connectivity, firewall deployment, and layered security controls.
 
@@ -10,7 +10,7 @@ The project also involved practical troubleshooting, routing validation, NAT con
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Design and implement an enterprise-style multi-branch network infrastructure
 - Configure VLAN segmentation and inter-VLAN routing
@@ -25,7 +25,7 @@ The project also involved practical troubleshooting, routing validation, NAT con
 
 ---
 
-## Enterprise Architecture
+## 🏗 Enterprise Architecture
 
 The environment was designed using a centralized enterprise architecture consisting of:
 
@@ -40,9 +40,20 @@ The environment was designed using a centralized enterprise architecture consist
 
 The HQ acts as the central enterprise hub while branches communicate through routed WAN links and enterprise firewall infrastructure.
 
+### 🌐 Enterprise Topology
+
+#### Full Enterprise Infrastructure
+![Enterprise Topology](screenshots/topology/topology.png)
+
+#### Headquarters Infrastructure
+![HQ Infrastructure](screenshots/topology/hq_branch.png)
+
+#### Qatar Branch Infrastructure
+![Qatar Branch](screenshots/topology/qatar_branch.png)
+
 ---
 
-## Network Segmentation
+## 🌐 Network Segmentation
 
 The infrastructure was segmented using VLANs to isolate departments, infrastructure services, and management systems.
 
@@ -63,7 +74,7 @@ Inter-VLAN routing was implemented using a Cisco multilayer core switch.
 
 ---
 
-## WAN & Branch Infrastructure
+## 🔗 WAN & Branch Infrastructure
 
 The environment includes enterprise-style WAN connectivity between HQ and multiple branch offices.
 
@@ -83,7 +94,7 @@ Cisco ASA firewalls were deployed at branch edges to simulate perimeter security
 
 ---
 
-## Security Features Implemented
+## 🛡 Security Features Implemented
 
 ### Enterprise Security Controls
 - VLAN segmentation
@@ -110,7 +121,7 @@ Cisco ASA firewalls were deployed at branch edges to simulate perimeter security
 
 ---
 
-## Layer 2 Security Hardening
+## 🔒 Layer 2 Security Hardening
 
 The following Layer 2 security protections were implemented:
 
@@ -125,7 +136,7 @@ These controls help reduce unauthorized access, rogue device connections, and La
 
 ---
 
-## Firewall & ACL Security Controls
+## 🚧 Firewall & ACL Security Controls
 
 Access Control Lists (ACLs) were implemented to enforce internal enterprise security policies.
 
@@ -140,7 +151,7 @@ These controls help reduce lateral movement and improve internal security govern
 
 ---
 
-## Technologies Used
+## ⚙ Technologies Used
 
 ### Networking & Security
 - Cisco Packet Tracer
@@ -161,7 +172,7 @@ These controls help reduce lateral movement and improve internal security govern
 
 ---
 
-## Project Screenshots
+## 📸 Project Screenshots
 
 Project screenshots include:
 - Enterprise topology
@@ -176,7 +187,7 @@ Project screenshots include:
 
 ---
 
-## Troubleshooting & Challenges
+## 🧪 Troubleshooting & Challenges
 
 During implementation, several real-world troubleshooting scenarios were encountered and resolved, including:
 
@@ -192,7 +203,7 @@ This project emphasized practical troubleshooting and infrastructure validation 
 
 ---
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - Enterprise Network Security
 - Infrastructure Security
@@ -210,7 +221,7 @@ This project emphasized practical troubleshooting and infrastructure validation 
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 
 Potential future enhancements include:
 
@@ -225,6 +236,6 @@ Potential future enhancements include:
 
 ---
 
-## Disclaimer
+## ⚠ Disclaimer
 
 This project was developed within a simulated lab environment for educational and cybersecurity training purposes. IP addresses, configurations, and network infrastructure shown in this project do not represent production environments.

@@ -43,10 +43,10 @@ The HQ acts as the central enterprise hub while branches communicate through rou
 ### 🌐 Enterprise Topology
 
 #### Full Enterprise Infrastructure
-![Enterprise Topology](screenshots/topology/topology.png)
+![Enterprise Topology](screenshots/topology/full_topology.png)
 
 #### Headquarters Infrastructure
-![HQ Infrastructure](screenshots/topology/hq_branch.png)
+![HQ Infrastructure](screenshots/topology/HQ_branch.png)
 
 #### Qatar Branch Infrastructure
 ![Qatar Branch](screenshots/topology/qatar_branch.png)

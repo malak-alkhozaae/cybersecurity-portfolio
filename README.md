@@ -1,30 +1,30 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring Security Engineer specializing in SIEM implementation, security monitoring, detection engineering, infrastructure security, and threat detection through hands-on projects, cybersecurity labs, and industry internships.
+Aspiring Security Engineer with hands-on experience in SIEM implementation, network security, threat detection, and security operations through cybersecurity projects, labs, and industry internships.
 
-Focused on Security Operations (SOC), centralized security monitoring, enterprise infrastructure security, threat hunting, and blue-team operations using technologies such as Wazuh, Fortinet solutions, and enterprise security monitoring platforms.
+Focused on SOC operations, security monitoring, threat hunting, and enterprise infrastructure security using technologies such as Wazuh, Fortinet solutions, and virtualization platforms.
 
 ---
 
 ## 🛡 Projects
 
 ### [SOC Implementation using Wazuh SIEM](soc-wazuh/)
-Enterprise-focused SIEM implementation demonstrating centralized security monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented security operations using Wazuh.
+Enterprise-focused SIEM implementation demonstrating centralized log monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented alert analysis using Wazuh.
 
 ### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-management/)
-Enterprise centralized security monitoring and management implementation using FortiManager and FortiAnalyzer with ADOM management, centralized policy deployment, VPN/SD-WAN concepts, traffic analysis, and security monitoring.
+Centralized security management and monitoring implementation using FortiManager and FortiAnalyzer with ADOM management, policy deployment, traffic analysis, and enterprise network security administration.
 
 ### [Enterprise Security Infrastructure Lab](enterprise-security-infrastructure/)
-Enterprise-style security infrastructure implementation demonstrating VLAN segmentation, inter-VLAN routing, WAN connectivity, firewall deployment, ACL enforcement, Layer 2 security hardening, DMZ architecture, enterprise routing, and centralized security-focused network design using Cisco technologies.
+Enterprise-style network security lab demonstrating VLAN segmentation, inter-VLAN routing, ACL enforcement, firewall deployment, DMZ architecture, Layer 2 security hardening, and enterprise network design using Cisco technologies.
 
 ### [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)
-Threat hunting and detection-focused project demonstrating threat intelligence workflows, MITRE ATT&CK concepts, security investigations, monitoring, and threat analysis methodologies.
+Threat hunting and security analysis project demonstrating threat intelligence workflows, MITRE ATT&CK mapping, security investigations, and monitoring methodologies.
 
 ### [Vulnerability Assessment Lab](vulnerability-assessment-lab/)
-Hands-on cybersecurity lab focused on vulnerability assessment, penetration testing methodologies, reconnaissance, exploitation techniques, privilege escalation, and security hardening concepts within controlled virtual environments.
+Hands-on cybersecurity lab focused on vulnerability assessment, reconnaissance, exploitation techniques, privilege escalation, and security hardening within controlled virtual environments.
 
 ### [AI-Based Phishing Detection System](phishing-detection/)
-Machine learning-based phishing detection project focused on malicious URL analysis, phishing detection techniques, cybersecurity automation, and applied AI concepts for security operations.
+Machine learning-based phishing detection project focused on malicious URL analysis, phishing detection techniques, and applied AI concepts for cybersecurity operations.
 
 ---
 
@@ -40,15 +40,15 @@ Machine learning-based phishing detection project focused on malicious URL analy
 - Wireshark
 - Nmap
 - Metasploit
-- Threat Hunting & Security Monitoring
-- Vulnerability Assessment & Threat Analysis
+- Threat Hunting
+- Vulnerability Assessment
 
 ### Networking & Infrastructure
 - Cisco Networking
 - VLANs, ACLs, NAT/PAT
 - VPN Technologies
 - VMware Virtualization
-- Enterprise Network Segmentation
+- Network Segmentation
 
 ### Operating Systems & Platforms
 - Kali Linux
@@ -65,10 +65,9 @@ Machine learning-based phishing detection project focused on malicious URL analy
 
 - SIEM & Security Monitoring
 - Security Operations (SOC)
-- Detection Engineering
 - Threat Hunting
+- Network Security
 - Infrastructure Security
-- Enterprise Network Security
 - Vulnerability Assessment
 - Centralized Security Management
 

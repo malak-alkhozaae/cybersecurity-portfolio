@@ -11,9 +11,6 @@ Focused on SOC operations, security monitoring, threat hunting, and enterprise i
 ### [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 Enterprise-focused SIEM implementation demonstrating centralized log monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented alert analysis using Wazuh.
 
-### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-management/)
-Centralized security management and monitoring implementation using FortiManager and FortiAnalyzer with ADOM management, policy deployment, traffic analysis, and enterprise network security administration.
-
 ### [Enterprise Security Infrastructure Lab](enterprise-security-infrastructure/)
 Enterprise-style network security lab demonstrating VLAN segmentation, inter-VLAN routing, ACL enforcement, firewall deployment, DMZ architecture, Layer 2 security hardening, and enterprise network design using Cisco technologies.
 

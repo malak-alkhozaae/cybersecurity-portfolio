@@ -14,6 +14,9 @@ Enterprise-focused SIEM implementation demonstrating centralized log monitoring,
 ### [Enterprise Security Infrastructure Lab](enterprise-security-infrastructure/)
 Enterprise-style network security lab demonstrating VLAN segmentation, inter-VLAN routing, ACL enforcement, firewall deployment, DMZ architecture, Layer 2 security hardening, and enterprise network design using Cisco technologies.
 
+### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-monitoring/)
+Enterprise cybersecurity project implemented during an industry internship, demonstrating centralized firewall administration, device management, security monitoring, log analysis, traffic visibility, and reporting using FortiManager and FortiAnalyzer within a real enterprise environment.
+
 ### [Threat Intelligence & Threat Hunting Platform](threat-intelligence-and-hunting/)
 Threat hunting and security analysis project demonstrating threat intelligence workflows, MITRE ATT&CK mapping, security investigations, and monitoring methodologies.
 

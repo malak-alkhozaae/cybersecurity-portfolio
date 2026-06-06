@@ -1,8 +1,8 @@
 # 🔐 Cybersecurity Portfolio
 
-Aspiring Security Engineer with hands-on experience in SIEM implementation, network security, threat detection, and security operations through cybersecurity projects, labs, and industry internships.
+Aspiring Security Engineer with hands-on experience in security monitoring, SIEM implementation, network security, threat detection, and enterprise security operations through cybersecurity projects, labs, and industry internships.
 
-Focused on SOC operations, security monitoring, threat hunting, and enterprise infrastructure security using technologies such as Wazuh, Fortinet solutions, and virtualization platforms.
+Focused on SOC operations, security monitoring, threat hunting, and enterprise infrastructure security using technologies such as Wazuh and Fortinet security solutions.
 
 ---
 
@@ -46,8 +46,7 @@ Machine learning-based phishing detection project focused on malicious URL analy
 ### Networking & Infrastructure
 - Cisco Networking
 - VLANs, ACLs, NAT/PAT
-- VPN Technologies
-- VMware Virtualization
+- VPN Concepts
 - Network Segmentation
 
 ### Operating Systems & Platforms
@@ -75,5 +74,5 @@ Machine learning-based phishing detection project focused on malicious URL analy
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/malak-alkhuzaie
+- LinkedIn: https://www.linkedin.com/in/malak-alkhuzaie
 - Email: malak.alkhozaae@gmail.com

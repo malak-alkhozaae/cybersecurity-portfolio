@@ -69,3 +69,34 @@ During this project, I was responsible for supporting the centralized management
 - Generated and scheduled monitoring reports
 - Configured email-based report distribution
 - Utilized dashboards to improve network visibility and operational awareness
+
+## Key Features Demonstrated
+
+- Centralized Security Administration
+- Device Onboarding and Management
+- Administrative Domain (ADOM) Management
+- Firewall Object and Address Group Management
+- Policy Package Administration
+- Provisioning Template Management
+- Centralized Log Collection
+- Traffic Monitoring and Analysis
+- Application Monitoring
+- Security Event Monitoring
+- Dashboard-Based Security Visibility
+- Scheduled Reporting
+- Email Notification Configuration
+- Enterprise Security Operations Workflows
+
+## Skills Developed
+
+- Network Security Monitoring
+- Security Operations
+- Log Analysis
+- Traffic Analysis
+- Firewall Administration
+- Security Reporting
+- Enterprise Security Management
+- Fortinet Security Solutions
+- Technical Documentation
+- Troubleshooting and Analysis
+- Security Operations Workflows

@@ -8,7 +8,7 @@ The solution was implemented during an industry internship within an enterprise 
 
 FortiManager was utilized for centralized device and policy management, while FortiAnalyzer provided log collection, monitoring, traffic analysis, dashboard visibility, and reporting capabilities. The project focused on the management and monitoring components of the environment rather than the underlying connectivity infrastructure.
 
-The implementation included Administrative Domain (ADOM) management, device onboarding and grouping, policy package administration, firewall object management, provisioning templates, centralized monitoring, log analysis, traffic visibility, dashboard analysis, scheduled reporting, and email notification configuration.
+The implementation included Administrative Domain (ADOM) management, device onboarding and grouping, policy package administration, firewall object management, provisioning templates, centralized monitoring, log analysis, traffic visibility, dashboard analysis, and scheduled reporting.
 
 This project provided hands-on experience with enterprise security management workflows and demonstrated how centralized administration and monitoring can improve operational efficiency and security visibility within distributed network environments.
 
@@ -41,7 +41,6 @@ This project demonstrates the implementation and use of FortiManager and FortiAn
 - Log Collection and Analysis
 - Traffic Monitoring
 - Scheduled Reporting
-- Email Notifications
 
 ## My Responsibilities
 
@@ -67,7 +66,6 @@ During this project, I was responsible for supporting the centralized management
 - Reviewed application monitoring and usage statistics
 - Monitored security events and threat activity
 - Generated and scheduled monitoring reports
-- Configured email-based report distribution
 - Utilized dashboards to improve network visibility and operational awareness
 
 ## Key Features Demonstrated
@@ -84,7 +82,6 @@ During this project, I was responsible for supporting the centralized management
 - Security Event Monitoring
 - Dashboard-Based Security Visibility
 - Scheduled Reporting
-- Email Notification Configuration
 - Enterprise Security Operations Workflows
 
 ## Skills Developed

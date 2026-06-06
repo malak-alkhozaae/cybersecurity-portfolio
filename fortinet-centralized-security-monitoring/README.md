@@ -100,3 +100,36 @@ During this project, I was responsible for supporting the centralized management
 - Technical Documentation
 - Troubleshooting and Analysis
 - Security Operations Workflows
+
+## Security & Privacy Notice
+
+This repository documents a real-world enterprise cybersecurity project completed during an industry internship.
+
+To protect client confidentiality and comply with organizational security policies, all sensitive information has been removed from this repository, including:
+
+- IP addresses
+- Hostnames
+- Internal network configurations
+- Firewall policies
+- Security logs
+- Administrative credentials
+- Customer-specific information
+
+The repository focuses on the architecture, implementation approach, management workflows, monitoring activities, and lessons learned without exposing confidential organizational data.
+
+## Lessons Learned
+
+This project provided valuable hands-on experience working with enterprise Fortinet technologies within a real-world environment. Through the implementation process, I gained practical exposure to centralized security administration, device management, monitoring workflows, log analysis, reporting, and operational security processes.
+
+The project also strengthened my understanding of how centralized management platforms can improve visibility, simplify administration, and support efficient security operations across distributed network environments. In addition, it enhanced my troubleshooting, documentation, analytical, and problem-solving skills while working within organizational security and access restrictions.
+
+## Future Improvements
+
+Potential future enhancements may include:
+
+- Expansion to multi-ADOM environments
+- Advanced reporting and analytics capabilities
+- Enhanced alerting and monitoring workflows
+- Additional automation through provisioning templates
+- Expanded monitoring coverage across additional devices and locations
+- Integration with additional security platforms and services

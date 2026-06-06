@@ -17,8 +17,10 @@ This project provided hands-on experience with enterprise security management wo
 ![Architecture Diagram](architecture-diagram.png)
 ## Problem Statement
 
-Modern enterprise environments often manage multiple security devices distributed across different locations. Managing firewalls individually can lead to inconsistent configurations, limited visibility, increased administrative overhead, and slower response to security events.
+Modern organizations often operate across multiple locations and rely on numerous security devices to protect their network infrastructure. As the number of devices increases, managing security policies, monitoring network activity, and analyzing security events can become more complex and time-consuming.
 
-In addition, security logs generated across multiple devices can become fragmented, making monitoring and incident investigation more challenging. Without centralized management and monitoring, administrators may struggle to maintain consistent security policies and gain a unified view of network activity.
+Managing devices individually may lead to inconsistent configurations, reduced visibility into network activity, and increased administrative effort. In addition, security logs generated across multiple devices can become fragmented, making it more difficult for administrators to efficiently monitor traffic, investigate incidents, and identify potential security issues.
 
-This project addresses these challenges by demonstrating how FortiManager and FortiAnalyzer can be used to centralize device management, policy administration, log collection, monitoring, traffic analysis, and reporting within an enterprise environment.
+To address these challenges, organizations implement centralized management and monitoring platforms that provide a unified view of their security infrastructure. Centralized administration helps improve operational efficiency, maintain configuration consistency, and enhance visibility across the network environment.
+
+This project demonstrates the implementation and use of FortiManager and FortiAnalyzer to support centralized device management, policy administration, log collection, traffic monitoring, security analysis, and reporting within an enterprise environment.

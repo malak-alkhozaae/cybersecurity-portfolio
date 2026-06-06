@@ -9,7 +9,7 @@ Focused on SOC operations, security monitoring, threat hunting, and enterprise i
 ## 🛡 Projects
 
 ### [Fortinet Centralized Security Monitoring & Management](fortinet-centralized-security-monitoring/)
-Enterprise cybersecurity project implemented during an industry internship, demonstrating centralized firewall administration, device management, security monitoring, log analysis, traffic visibility, and reporting using FortiManager and FortiAnalyzer within a real enterprise environment.
+Enterprise cybersecurity project demonstrating centralized security management, security monitoring, log analysis, reporting, and device administration using FortiManager and FortiAnalyzer.
 
 ### [SOC Implementation using Wazuh SIEM](soc-wazuh/)
 Enterprise-focused SIEM implementation demonstrating centralized log monitoring, endpoint visibility, File Integrity Monitoring (FIM), Office 365 integration, and SOC-oriented alert analysis using Wazuh.

@@ -4,7 +4,9 @@
 
 This project demonstrates the implementation of a centralized network security monitoring and management environment using FortiManager and FortiAnalyzer within an enterprise infrastructure.
 
-The solution was implemented during an industry internship and focused on improving network visibility, simplifying security administration, and centralizing monitoring operations across multiple network locations. FortiManager was utilized for centralized device and policy management, while FortiAnalyzer provided log collection, monitoring, traffic analysis, and reporting capabilities.
+The solution was implemented during an industry internship within an enterprise Fortinet environment supporting multiple network locations. The project focused on improving network visibility, simplifying security administration, and centralizing monitoring operations through FortiManager and FortiAnalyzer.
+
+FortiManager was utilized for centralized device and policy management, while FortiAnalyzer provided log collection, monitoring, traffic analysis, dashboard visibility, and reporting capabilities. The project focused on the management and monitoring components of the environment rather than the underlying connectivity infrastructure.
 
 The implementation included Administrative Domain (ADOM) management, device onboarding and grouping, policy package administration, firewall object management, provisioning templates, centralized monitoring, log analysis, traffic visibility, dashboard analysis, scheduled reporting, and email notification configuration.
 

@@ -24,3 +24,21 @@ Managing devices individually may lead to inconsistent configurations, reduced v
 To address these challenges, organizations implement centralized management and monitoring platforms that provide a unified view of their security infrastructure. Centralized administration helps improve operational efficiency, maintain configuration consistency, and enhance visibility across the network environment.
 
 This project demonstrates the implementation and use of FortiManager and FortiAnalyzer to support centralized device management, policy administration, log collection, traffic monitoring, security analysis, and reporting within an enterprise environment.
+
+## Technologies Used
+
+- FortiManager
+- FortiAnalyzer
+- FortiGate
+- FortiView
+- Administrative Domains (ADOMs)
+- Firewall Policies
+- Address Objects and Address Groups
+- Policy Packages
+- Provisioning Templates
+- CLI Automation Templates
+- Security Profiles
+- Log Collection and Analysis
+- Traffic Monitoring
+- Scheduled Reporting
+- Email Notifications

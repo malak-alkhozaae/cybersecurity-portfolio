@@ -132,3 +132,11 @@ Potential future enhancements may include:
 - Enhanced alerting and event handling configurations
 - Further customization of dashboards and reporting for different operational requirements
 - Expanded use of available Fortinet platform features based on organizational needs and licensing options
+
+  ## Project Outcomes
+
+- Improved centralized visibility across managed security devices
+- Simplified device and policy administration through FortiManager
+- Enabled centralized log collection and analysis using FortiAnalyzer
+- Supported monitoring and reporting through dashboards and scheduled reports
+- Demonstrated enterprise security management and monitoring workflows using Fortinet technologies

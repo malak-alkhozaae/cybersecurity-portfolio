@@ -42,3 +42,30 @@ This project demonstrates the implementation and use of FortiManager and FortiAn
 - Traffic Monitoring
 - Scheduled Reporting
 - Email Notifications
+
+## My Responsibilities
+
+During this project, I was responsible for supporting the centralized management and monitoring environment through FortiManager and FortiAnalyzer.
+
+### FortiManager Activities
+
+- Managed and worked within Administrative Domains (ADOMs)
+- Onboarded and organized FortiGate devices into logical groups
+- Managed firewall objects and address groups
+- Worked with policy packages for centralized policy administration
+- Applied and managed provisioning templates
+- Utilized CLI automation templates for configuration management
+- Reviewed device synchronization and configuration status
+- Supported centralized firewall administration workflows
+
+### FortiAnalyzer Activities
+
+- Integrated managed devices for centralized monitoring
+- Verified log collection and log visibility
+- Monitored network activity using FortiView dashboards
+- Analyzed traffic patterns and bandwidth utilization
+- Reviewed application monitoring and usage statistics
+- Monitored security events and threat activity
+- Generated and scheduled monitoring reports
+- Configured email-based report distribution
+- Utilized dashboards to improve network visibility and operational awareness

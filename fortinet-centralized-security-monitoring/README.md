@@ -127,9 +127,8 @@ The project also strengthened my understanding of how centralized management pla
 
 Potential future enhancements may include:
 
-- Expansion to multi-ADOM environments
-- Advanced reporting and analytics capabilities
-- Enhanced alerting and monitoring workflows
-- Additional automation through provisioning templates
-- Expanded monitoring coverage across additional devices and locations
-- Integration with additional security platforms and services
+- Increased utilization of advanced FortiAnalyzer analytics and reporting capabilities
+- Additional automation through provisioning templates and centralized management workflows
+- Enhanced alerting and event handling configurations
+- Further customization of dashboards and reporting for different operational requirements
+- Expanded use of available Fortinet platform features based on organizational needs and licensing options
